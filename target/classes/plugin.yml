@@ -1,0 +1,8 @@
+name: CombatTag
+version: '1.0'
+main: dev.vrremi.combattag.Main
+api-version: 1.14
+authors: [ VRRemi ]
+description: Combat tag plugin similar to HCF.
+commands:
+  combattag:
