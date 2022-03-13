@@ -1,6 +1,0 @@
-combatTagTime: 30
-tagMsg: "&c[CombatTag] &4{PLAYER} is now in combat. Do not quit."
-untagMsg: "&c[CombatTag] &aYou are not in combat anymore. You can quit now."
-
-#// {OTHER} - Other Player Username (ex: Remi is now in combat. Do not quit.)
-#// {PLAYER} - Your username (ex: VRRemi is now in combat. Do not quit.)
